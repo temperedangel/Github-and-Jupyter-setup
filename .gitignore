@@ -1,6 +1,8 @@
 # Mac OS
 .DS_Store
 
+.gitignore
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
